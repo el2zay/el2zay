@@ -3,8 +3,6 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=el2zay&label=Profile%20views&color=0e75b6&style=flat" alt="el2zay" /> </p>
 
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=el2zay" alt="el2zay" /></a> </p>
-
 <p align="left"> <a href="https://twitter.com/el2zay" target="blank"><img src="https://img.shields.io/twitter/follow/el2zay?logo=twitter&style=for-the-badge" alt="el2zay" /></a> </p>
 
 - 🔭 I’m currently working on [Elbot](https://el2zay.is-a.dev/elbot)
