@@ -1,17 +1,17 @@
-<h1 align="center">Hi 👋, I'm Elie Z.</h1>
+<h1 align="center">Salut 👋, Je suis Elie Z.</h1>
 <h3 align="center">J'aime bien coder en JS et en PY sur VSC. Surtout quand y'a pas d'erreur</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=el2zay&label=Profile%20views&color=0e75b6&style=flat" alt="el2zay" /> </p>
 
 <p align="left"> <a href="https://twitter.com/el2zay" target="blank"><img src="https://img.shields.io/twitter/follow/el2zay?logo=twitter&style=for-the-badge" alt="el2zay" /></a> </p>
 
-- 🔭 I’m currently working on [Elbot](https://el2zay.is-a.dev/elbot)
+- 🔭 Je travaille en ce moment sur [Elbot](https://el2zay.is-a.dev/elbot)
 
-- 🌱 I’m currently learning **JS et de plus en plus en PY**
+- 🌱 Je code principalement en  **JS et de plus en plus en PY**
 
-- 👨‍💻 All of my projects are available at [https://el2zay.is-a.de](https://el2zay.is-a.de)
+- 👨‍💻 Tous mes projets sont sur mon site [ici](https://el2zay.is-a.dev)
 
-- 📫 How to reach me **el2zay.contact@gmail.com**
+- 📫 Vous pouvez me contacter par mail : [ici](mailto:el2zay.contact@gmail.com)
 
 - ⚡ Fun fact **Euuuuuuh...**
 
