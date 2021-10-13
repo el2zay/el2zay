@@ -19,7 +19,7 @@
 <p align="left">
 <a href="https://twitter.com/el2zay" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="el2zay" height="30" width="40" /></a>
 <a href="https://instagram.com/el2zay" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="el2zay" height="30" width="40" /></a>
-<a href="https://www.youtube.com/c/elizay" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/youtube.svg" alt="elizay" height="30" width="40" /></a>
+<a href="https://www.youtube.com/channel/UCZHprEd5P935nlVoFR_kqew" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/youtube.svg" alt="elizay" height="30" width="40" /></a>
 <a href="https://discord.gg/https://discords.com/bio/p/el2zay" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/discord.svg" alt="https://discords.com/bio/p/el2zay" height="30" width="40" /></a>
 </p>
 
