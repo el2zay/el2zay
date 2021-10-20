@@ -13,7 +13,7 @@
 
 - 📫 Vous pouvez me contacter par mail : [ici](mailto:el2zay.contact@gmail.com)
 
-- ⚡ Fun fact **Euuuuuuh...**
+- ⚡ Fun fact **J'aime la pizza.**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
