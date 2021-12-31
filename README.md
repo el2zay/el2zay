@@ -1,7 +1,6 @@
 <h1 align="center">Salut 👋, Je suis Elie Z.</h1>
 <h3 align="center">J'aime bien coder en JS et en PY sur VSC. Surtout quand y'a pas d'erreur</h3>
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=el2zay&label=Profile%20views&color=0e75b6&style=flat" alt="el2zay" /> </p>
 
 <p align="left"> <a href="https://twitter.com/el2zay" target="blank"><img src="https://img.shields.io/twitter/follow/el2zay?logo=twitter&style=for-the-badge" alt="el2zay" /></a> </p>
 
