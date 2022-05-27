@@ -6,7 +6,7 @@
 
 - 🔭 Je travaille en ce moment sur [Elbot](https://el2zay.is-a.dev/elbot)
 
-- 🌱 Je code principalement en  Python
+- 🌱 Je code principalement en  Python mais je commence à essayer à me lancer dans le nodeJS et le Dart/Flutter
 
 - 👨‍💻 Tous mes projets sont sur mon site [ici](https://el2zay.is-a.dev)
 
