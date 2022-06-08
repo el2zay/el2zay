@@ -1,5 +1,5 @@
 <h1 align="center">Salut 👋, Je suis Elie</h1>
-<h3 align="center">J'aime bien coder en PY sur VSC. Surtout quand y'a pas d'erreur</h3>
+<h3 align="center">Ça va faire un an que j'ai commencé à code.</h3>
 <p align="left"> <a href="https://twitter.com/el2zay" target="blank"><img src="https://img.shields.io/twitter/follow/el2zay?logo=twitter&style=for-the-badge" alt="el2zay" /></a> </p>
 
 - 🔭 Je travaille en ce moment sur [Elbot](https://el2zay.is-a.dev/elbot)
