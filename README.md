@@ -4,7 +4,7 @@
 
 - 🔭 Je travaille en ce moment sur [Elbot](https://el2zay.is-a.dev/elbot)
 
-- 🌱 Je code principalement en  Python mais je commence à essayer à me lancer dans le nodeJS et le Dart/Flutter
+- 🌱 Je code principalement en  Python mais je commence à essayer à me lancer dans le GO et le Dart/Flutter
 - 👨‍💻 Tous mes projets sont sur mon site [ici](https://el2zay.is-a.dev)
 - 📫 Vous pouvez me contacter par mail : [ici](mailto:el2zay.contact@gmail.com)
 - ⚡ Fun fact **J'ai pleins d'idées super cool 👀**
