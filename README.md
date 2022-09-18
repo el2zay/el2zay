@@ -1,6 +1,8 @@
 <h1 align="center">Salut 👋, Je suis Elie</h1>
 <p align="left"> <a href="https://twitter.com/el2zay" target="blank"><img src="https://img.shields.io/twitter/follow/el2zay?logo=twitter&style=for-the-badge" alt="el2zay" /></a> </p>
 
+⏯ **En pause sur Github mais je reviens vite**
+
 - 🚀 Fini le python je me lance dans le Golang. 
 - 👨‍💻 Tous mes projets sont sur mon site [ici](https://el2zay.is-a.dev)
 - 📫 Vous pouvez me contacter par mail : [ici](mailto:el2zay.contact@gmail.com)
