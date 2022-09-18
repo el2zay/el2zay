@@ -1,12 +1,11 @@
 <h1 align="center">Salut 👋, Je suis Elie</h1>
 <p align="left"> <a href="https://twitter.com/el2zay" target="blank"><img src="https://img.shields.io/twitter/follow/el2zay?logo=twitter&style=for-the-badge" alt="el2zay" /></a> </p>
 
-- 🔭 Je travaille en ce moment sur [Elbot](https://el2zay.is-a.dev/elbot)
-
-- 🌱 Je code principalement en  Python mais je commence à essayer à me lancer dans le GO et le Dart/Flutter
+- 🚀 Fini le python je me lance dans le Golang. 
 - 👨‍💻 Tous mes projets sont sur mon site [ici](https://el2zay.is-a.dev)
 - 📫 Vous pouvez me contacter par mail : [ici](mailto:el2zay.contact@gmail.com)
-- ⚡ Fun fact **J'ai pleins d'idées super cool 👀**
+- ⚡ J'ai pas mal d'idée 
+
 <h3 align="left">Connect with me:</h3>
 <p align="left">
 <a href="https://twitter.com/el2zay" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="el2zay" height="30" width="40" /></a>
