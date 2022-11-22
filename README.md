@@ -1,6 +1,5 @@
 <h1 align="center">Salut 👋, Je suis Elie</h1>
 <p align="left"> <a href="https://twitter.com/el2zay" target="blank"><img src="https://img.shields.io/twitter/follow/el2zay?logo=twitter&style=for-the-badge" alt="el2zay" /></a>
-align="left"> <a href="https://t.me/el2zay" target="blank"><img src="https://upload.wikimedia.org/wikipedia/commons/thumb/8/83/Telegram_2019_Logo.svg/2048px-Telegram_2019_Logo.svg.png" alt="el2zay" /></a>
 </p>
 
 - 🚀 Fini le python je me lance dans le Golang. 
@@ -11,7 +10,7 @@ align="left"> <a href="https://t.me/el2zay" target="blank"><img src="https://upl
 <h3 align="left">Connect with me:</h3>
 <p align="left">
 <a href="https://twitter.com/el2zay" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="el2zay" height="30" width="40" /></a>
-<a href="https://www.youtube.com/channel/UCZHprEd5P935nlVoFR_kqew" target="blank"></a></a>
+<a href="https://t.me/el2zay" target="blank"><img align="center" src="https://upload.wikimedia.org/wikipedia/commons/thumb/8/83/Telegram_2019_Logo.svg/2048px-Telegram_2019_Logo.svg.png" alt="el2zay" height="30" width="40" /></a>
 </p>
 
 
