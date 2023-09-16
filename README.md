@@ -19,6 +19,8 @@
 ___
 <h3 align="left">Plus :</h3>
 <p><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=el2zay&show_icons=true&locale=en&layout=compact" alt="el2zay" /></p>
+[![GitHub Streak](https://github-readme-streak-stats-sandy-one.vercel.app?user=)](https://git.io/streak-stats)
+
 <!-- <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=el2zay&show_icons=true&locale=en" alt="el2zay" /></p>
   -->
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=el2zay&" alt="el2zay" /></p>
