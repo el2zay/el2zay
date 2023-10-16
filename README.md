@@ -3,8 +3,6 @@
 </p>
 
 - 🚀 Fini le python je me lance dans le Golang. 
-- 👨‍💻 Tous mes projets sont sur mon site [ici](https://el2zay.is-a.dev)
-- 📫 Vous pouvez me contacter par mail : [ici](mailto:el2zay.contact@gmail.com)
 - ⚡ J'ai pas mal d'idée 
 
 <h3 align="left">Connections :</h3>
