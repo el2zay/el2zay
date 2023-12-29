@@ -2,8 +2,7 @@
 <p align="left"> <a href="https://twitter.com/el2zay" target="blank"><img src="https://img.shields.io/twitter/follow/el2zay?logo=twitter&style=for-the-badge" alt="el2zay" /></a>
 </p>
 
-- 🚀 Fini le python je me lance dans le Golang. 
-- ⚡ J'ai pas mal d'idée 
+- ❤️ Flutter Lover 
 
 <h3 align="left">Connections :</h3>
 <p align="left">
