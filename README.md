@@ -1,15 +1,14 @@
 <h1 align="center">Salut 👋, Je suis Elie</h1>
-<p align="left"> <a href="https://twitter.com/el2zay" target="blank"><img src="https://img.shields.io/twitter/follow/el2zay?logo=twitter&style=for-the-badge" alt="el2zay" /></a>
-</p>
 
-- ❤️ Flutter Lover 
-
-<h3 align="left">Connections :</h3>
+<h3 align="left">Contact :</h3>
 <p align="left">
 <a href="https://t.me/el2zay" target="blank"><img align="center" src="https://upload.wikimedia.org/wikipedia/commons/thumb/8/82/Telegram_logo.svg/512px-Telegram_logo.svg.png?20220101141644" alt="el2zay" height="40" width="40" /></a>
-<a href="https://twitter.com/el2zay" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="el2zay" height="40" width="40" /></a>
 
-</p>
+<h3>Autre :</h3>
+
+- 🌱 Développeur Mobile et Desktop.
+- ❤️ Flutter Lover.
+- ⚡️ Quelques idées qui arrivent.
 
 
 
