@@ -1,7 +1,14 @@
-<h1 align="center">Bienvenue sur mon GitHub</h1>
+## Bienvenue sur mon GitHub !
 
-<p align="left">
-<a href="https://t.me/el2zay" target="blank"><img align="center" src="https://upload.wikimedia.org/wikipedia/commons/thumb/8/82/Telegram_logo.svg/512px-Telegram_logo.svg.png?20220101141644" alt="el2zay" height="40" width="40" /></a>
+**Un développeur qui adore créer des app en Flutter, et qui dev de temps en temps en Go et Python.**
+
+- 👉 Tous mes projets principaux [ici](https://github.com/el2zay?tab=repositories)
+- 👉 Mes projets associés aux Freebox [ici](https://github.com/Freebox-Tools)
+
+
+### Envie de me supporter ?
+[![ko-fi](https://ko-fi.com/img/githubbutton_sm.svg)](https://ko-fi.com/F1F31A9YSU)
+
 
 <h3 align="left">Statistiques :</h3>
 <p><img align="center" src="https://github-readme-stats-el2zay.vercel.app/api/top-langs/?username=el2zay&locale=fr&exclude_repo=github-readme-stats,el2zay.github.io,inarretable,test_fwl_ci&theme=dark" alt="el2zay" /></p>
